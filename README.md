@@ -81,3 +81,4 @@ ACMGS/
 - Streamlit (dashboard)
 - SQLite (database, upgradeable to PostgreSQL)
 - Pandas, NumPy, Matplotlib, Plotly
+Harsh genius
